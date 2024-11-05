@@ -5,10 +5,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/NHKritDat">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web application developer;Start to learn how to design UI/UX;Try+new+things+and+make+its+perfect"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web back-end developer;Try new things and make its perfect"/>
   </a>
 </p>
-
 <p align="center">
   <p align="center">
     <a href="https://www.instagram.com/dat01102003">
@@ -41,42 +40,43 @@
     </p>
     <h3 >🧰 Frameworks and Libraries</h3>
     <p>
-      <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge">
-      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=for-the-badge">
-      <img alt="Swagger" src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=black&style=for-the-badge">
-      <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
       <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F?&logo=springboot&logoColor=fafafa&style=for-the-badge">
-      <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
-      <img alt="Apache Ant" src="https://img.shields.io/badge/apache_ant-A81C7D?&logo=apacheant&logoColor=white&style=for-the-badge">
+      <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge">
+      <img alt="Lombok" src="https://img.shields.io/badge/Lombok-red?logo=lombok&logoColor=white&style=for-the-badge">
+      <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white&style=for-the-badge">
+      <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C3C3D?logo=oauth&logoColor=white&style=for-the-badge">
+      <img alt="Google OAuth2" src="https://img.shields.io/badge/Google%20OAuth2-4285F4?logo=google&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
+      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=for-the-badge">
+      <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
+      <img alt="Razor Pages (.Net)" src="https://img.shields.io/badge/Razor%20Pages-512BD4?logo=.net&logoColor=white&style=for-the-badge">
+      <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
     </p>
     <h3 >🗄️ Databases and Cloud Hosting</h3>
     <p >
-      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge">
-      <img alt="Firebase" src="https://img.shields.io/badge/firebase-DD2C00?&logo=firebase&logoColor=white&style=for-the-badge">
       <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge">
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
     </p>
     <h3 >💻 Software and Tools</h3>
     <p >
-      <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge">
-      <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge">
-      <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
-      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge">
-      <img alt="Google Docs" src="https://img.shields.io/badge/google_docs-4285F4?&logo=googledocs&logoColor=white&style=for-the-badge">
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white&style=for-the-badge">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge">
+      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
       <img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/apache_netbeans_ide-1B6AC6?&logo=apachenetbeanside&logoColor=white&style=for-the-badge">
-      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
       <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white&style=for-the-badge">
+      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
-      <img alt="Azure Data Studio" src="https://img.shields.io/badge/Azure_Data_Studio-0078D4.svg?logo=azure-data-studio&logoColor=white&style=for-the-badge">
+      <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+      <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge">
+      <img alt="Google Docs" src="https://img.shields.io/badge/google_docs-4285F4?&logo=googledocs&logoColor=white&style=for-the-badge">
+      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white&style=for-the-badge">
     </p>
 </p>
+
 <h2 align="center">📊 Stats and Activity</h2>
 <h3 align="center">🔥 Streak Stats</h3>
   <p align="center">
