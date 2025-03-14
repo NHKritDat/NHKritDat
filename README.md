@@ -41,17 +41,16 @@
     <h3 >🧰 Frameworks and Libraries</h3>
     <p>
       <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F?&logo=springboot&logoColor=fafafa&style=for-the-badge">
-      <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge">
-      <img alt="Lombok" src="https://img.shields.io/badge/Lombok-red?logo=lombok&logoColor=white&style=for-the-badge">
       <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white&style=for-the-badge">
-      <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C3C3D?logo=oauth&logoColor=white&style=for-the-badge">
+      <img alt="Lombok" src="https://img.shields.io/badge/Lombok-red?logo=lombok&logoColor=white&style=for-the-badge">
+      <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge">
       <img alt="Google OAuth2" src="https://img.shields.io/badge/Google%20OAuth2-4285F4?logo=google&logoColor=white&style=for-the-badge">
+      <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C3C3D?logo=oauth&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
       <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge">
       <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=for-the-badge">
       <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
       <img alt="Razor Pages (.Net)" src="https://img.shields.io/badge/Razor%20Pages-512BD4?logo=.net&logoColor=white&style=for-the-badge">
-      <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
     </p>
     <h3 >🗄️ Databases and Cloud Hosting</h3>
     <p >
@@ -66,18 +65,15 @@
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
       <img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/apache_netbeans_ide-1B6AC6?&logo=apachenetbeanside&logoColor=white&style=for-the-badge">
       <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?&logo=androidstudio&logoColor=white&style=for-the-badge">
+      <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
       <img alt="Azure Data Studio" src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?&logo=azure-data-studio&logoColor=white&style=for-the-badge">
       <img alt="SSMS" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?&logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
-      <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white&style=for-the-badge">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge">
       <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?&logo=gitkraken&logoColor=white&style=for-the-badge">
+      <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white&style=for-the-badge">
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
-      <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
-      <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge">
-      <img alt="Google Docs" src="https://img.shields.io/badge/google_docs-4285F4?&logo=googledocs&logoColor=white&style=for-the-badge">
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white&style=for-the-badge">
     </p>
 </p>
 
