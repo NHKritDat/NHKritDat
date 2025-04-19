@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/NHKritDat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web back-end developer;Try new things and make its perfect"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web+backend+developer;Try+new+things+and+make+its+perfect"/>
   </a>
 </p>
 <p align="center">
