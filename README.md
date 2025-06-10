@@ -93,16 +93,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 3 hrs 37 mins
+Total Time: 4 hrs 13 mins
 
-TypeScript   2 hrs 59 mins   >>>>>>>>>>>>>>>>>>>>-----   81.74 %
-YAML         14 mins         >>-----------------------   06.81 %
-Bash         11 mins         >------------------------   05.20 %
-Markdown     5 mins          >------------------------   02.61 %
-JSON         3 mins          -------------------------   01.59 %
-Other        1 min           -------------------------   00.87 %
+TypeScript   3 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>>----   84.09 %
+YAML         14 mins         >------------------------   05.85 %
+Bash         11 mins         >------------------------   04.65 %
+Markdown     5 mins          >------------------------   02.28 %
+JSON         3 mins          -------------------------   01.37 %
+Other        1 min           -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
