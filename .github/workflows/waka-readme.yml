@@ -30,6 +30,13 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
+          SHOW_LANGUAGE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_TIMEZONE: true
+          SHOW_COMMIT: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
