@@ -91,6 +91,8 @@
     <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
@@ -166,7 +168,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NHKritDat/NHKritDat/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 04:39:29 UTC
+ Last Updated on 09/07/2025 04:41:06 UTC
 <!--END_SECTION:waka-->
 
 
