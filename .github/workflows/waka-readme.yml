@@ -32,3 +32,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMIT_USERNAME: "GitHubActionBot"
+          COMMIT_EMAIL: "action-bot@github.org"
