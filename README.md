@@ -91,21 +91,4 @@
     <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>  
 <!--START_SECTION:waka-->
-
-```all_time
-From: 02 July 2025 - To: 09 July 2025
-
-Total Time: 21 hrs 47 mins
-
-TypeScript   19 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.03 %
-JSON         35 mins         >------------------------   02.69 %
-YAML         33 mins         >------------------------   02.54 %
-SQL          22 mins         -------------------------   01.67 %
-Docker       14 mins         -------------------------   01.11 %
-Other        10 mins         -------------------------   00.76 %
-```
-
 <!--END_SECTION:waka-->
-
-
-  
