@@ -24,7 +24,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: https://wakatime.com/api
           # content
-          REPOSITORY: Veila-SEP490-SU25/veila-server
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
