@@ -91,21 +91,21 @@
     <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 576 Contributions in the Year 2025
+> 🏆 577 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -134,21 +134,21 @@ Sunday                   374 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               26 hrs 12 mins      ███████████████████████░░   93.01 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               19 hrs 59 mins      ███████████████████████░░   91.03 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-veila-server             28 hrs 9 mins       █████████████████████████   99.93 % 
-Project                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+veila-server             21 hrs 56 mins      █████████████████████████   99.92 % 
+Project                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  28 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -168,7 +168,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NHKritDat/NHKritDat/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 10:46:51 UTC
+ Last Updated on 10/07/2025 02:12:13 UTC
 <!--END_SECTION:waka-->
 
 
