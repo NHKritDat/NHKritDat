@@ -3,93 +3,181 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=%7C+NHKritDat+%7C;" alt="NHKritDat"/>
   </a>
 </p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 <p align="center">
   <a href="https://github.com/NHKritDat">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web+backend+developer;Try+new+things+and+make+its+perfect"/>
   </a>
 </p>
-<p align="center">
-  <p align="center">
-    <a href="https://www.instagram.com/dat01102003">
-      <img alt="Instagram" src="https://img.shields.io/badge/dat01102003-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/NHKritDat">
-      <img alt="Facebook" src="https://img.shields.io/badge/Dat Hoang-005FED?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <img src="https://custom-icon-badges.demolab.com/github/stars/NHKritDat?color=c79600&style=for-the-badge&labelColor=e1ad0e&logo=star"/>
-    <img src="https://custom-icon-badges.demolab.com/github/followers/NHKritDat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </p>
-  <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/-0966--548--257-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/datnh.krit@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Binh%20Duong-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Address"/>
-  </p>
-</p>
 
-<h2 align="center">🛠️ My skills and tools</h2>
-<p >
-    <h3 >👨‍💻 Programming and Markup Languages</h3>
-    <p  width="800px">
-      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge">
-      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
-      <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
-    </p>
-    <h3 >🧰 Frameworks and Libraries</h3>
-    <p>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F?&logo=springboot&logoColor=fafafa&style=for-the-badge">
-      <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white&style=for-the-badge">
-      <img alt="Lombok" src="https://img.shields.io/badge/Lombok-red?logo=lombok&logoColor=white&style=for-the-badge">
-      <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge">
-      <img alt="Google OAuth2" src="https://img.shields.io/badge/Google%20OAuth2-4285F4?logo=google&logoColor=white&style=for-the-badge">
-      <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-3C3C3D?logo=oauth&logoColor=white&style=for-the-badge">
-      <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
-      <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge">
-      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=for-the-badge">
-      <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=for-the-badge">
-      <img alt="Razor Pages (.Net)" src="https://img.shields.io/badge/Razor%20Pages-512BD4?logo=.net&logoColor=white&style=for-the-badge">
-    </p>
-    <h3 >🗄️ Databases and Cloud Hosting</h3>
-    <p >
-      <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge">
-      <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
-    </p>
-    <h3 >💻 Software and Tools</h3>
-    <p >
-      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge">
-      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
-      <img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/apache_netbeans_ide-1B6AC6?&logo=apachenetbeanside&logoColor=white&style=for-the-badge">
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?&logo=androidstudio&logoColor=white&style=for-the-badge">
-      <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
-      <img alt="Azure Data Studio" src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?&logo=azure-data-studio&logoColor=white&style=for-the-badge">
-      <img alt="SSMS" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?&logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
-      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge">
-      <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?&logo=gitkraken&logoColor=white&style=for-the-badge">
-      <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white&style=for-the-badge">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
-    </p>
-</p>
+###
+
+<div align="center">
+  <a href="https://facebook.com/NHKritDat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="datnh.krit@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.instagram.com/dat01102003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/datnh_krit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NHKritDat.NHKritDat&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">🛠 Programming and Markup Languages</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="left">🧰 Frameworks and Libraries</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h3 align="left">🗄️ Databases and Cloud Hosting</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h3 align="left">💻 Software and Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" height="40" alt="krakenjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="40" alt="rubymine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
 
 <h2 align="center">📊 Stats and Activity</h2>
 <h3 align="center">🔥 Streak Stats</h3>
-  <p align="center">
-    <a href="https://github.com/NHKritDat/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NHKritDat's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=NHKritDat&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-  <h3 align="center">💻 GitHub Profile Stats</h3>
-  <p align="center">
-    <a href="https://github.com/NHKritDat/github-readme-stats"><img alt="NHKritDat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NHKritDat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/NHKritDat/github-readme-stats"><img alt="NHKritDat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NHKritDat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-    <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-  </p>  
+<p align="center">
+  <a href="https://github.com/NHKritDat/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NHKritDat's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=NHKritDat&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NHKritDat/NHKritDat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NHKritDat/NHKritDat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NHKritDat/NHKritDat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!--START_SECTION:waka-->
 
 ```all_time
