@@ -184,13 +184,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2026 - To: 24 June 2026
+From: 18 June 2026 - To: 25 June 2026
 
-Ruby             9 hrs 58 mins         █████████████░░░░░░░░░░░░   52.57 %
-JavaScript       5 hrs 43 mins         ███████▓░░░░░░░░░░░░░░░░░   30.16 %
-ERB              2 hrs 28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Markdown         32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Ruby             8 hrs 28 mins         █████████████▓░░░░░░░░░░░   54.17 %
+JavaScript       4 hrs 15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+ERB              1 hr 51 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Markdown         32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+JSON             15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
