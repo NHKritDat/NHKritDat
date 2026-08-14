@@ -184,11 +184,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Ruby             20 mins               █████████████████████░░░░   83.81 %
-Markdown         2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-GitIgnore file   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Ruby       2 mins                █████████████░░░░░░░░░░░░   52.35 %
+Markdown   2 mins                ████████████░░░░░░░░░░░░░   47.65 %
 ```
 
 <!--END_SECTION:waka-->
