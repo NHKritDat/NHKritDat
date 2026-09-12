@@ -184,12 +184,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Ruby         12 hrs 36 mins        ███████████████▒░░░░░░░░░   61.93 %
-ERB          7 hrs 39 mins         █████████▒░░░░░░░░░░░░░░░   37.63 %
-Markdown     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Ruby         9 hrs 12 mins         █████████████▒░░░░░░░░░░░   53.37 %
+ERB          7 hrs 57 mins         ███████████▓░░░░░░░░░░░░░   46.07 %
+Markdown     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
