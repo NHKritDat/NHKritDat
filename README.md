@@ -184,13 +184,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Ruby             14 hrs 30 mins        ███████████████████░░░░░░   75.43 %
-ERB              3 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Markdown         28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML             5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Ruby             15 hrs 54 mins        ██████████████████▒░░░░░░   72.90 %
+ERB              5 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Markdown         24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JavaScript       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+GitIgnore file   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
